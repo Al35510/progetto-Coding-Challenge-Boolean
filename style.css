@@ -1,0 +1,120 @@
+
+
+
+
+body {
+    background-image: url("sfondo.jpg");
+    background-size: cover;
+    
+}
+
+
+
+
+ 
+
+nav {
+     background-color: rgb(31, 246, 31);
+     border: 60px;
+     margin: 40px;
+     padding: 10px;
+     text-align: center;
+}
+
+
+
+
+
+.logo {
+    width: 350px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#Titolo1 {
+    text-align: center;
+}
+
+
+
+
+.row {
+    color: white;
+    font-size: x-large;
+    
+}
+
+
+#paragrafo1 {
+    color: white;
+    font-size: 15px;
+}
+
+
+#paragrafo2 {
+    color: white;
+    font-size: 15px;
+    
+}
+
+
+.rettangolo {
+    width: 350px;
+    height: 25px;
+    background: orange;
+    margin-bottom: 10px;
+}
+
+
+
+#paragrafo3 {
+    color: white;
+    font-size: 15px;
+}
+
+
+#paragrafo4 {
+    color: white;
+    font-size: 15px;
+}
+
+.row2 {
+    color: white;
+    font-size: x-large;
+}
+
+
+.rettangolo2 {
+    width: 500px;
+    height: 25px;
+    background:green;
+    margin-bottom: 10px;
+}
+
+
+.row3 { 
+    color: white;
+    font-size: x-large;
+}
+
+#paragrafo5 {
+    color: white;
+    font-size: 15px;
+}
+
+
+#paragrafo6 {
+    color: white;
+    font-size: 15px;
+}
+
+
+.rettangolo3 {
+    width: 150px;
+    height: 25px;
+    background: red;
+}
